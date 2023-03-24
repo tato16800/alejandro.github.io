@@ -2,6 +2,10 @@
 <html>
 <head><title> Trabajando con GIT </title>
 </head>
-<body><div>	<p><h1> <b>Mi primera division</b> </h1></p> </div>
+<body>
+<div>	<p><h1> <b>Mi primera division</b> </h1></p> </div>
+<div>
+	<h3> mi tercera division </h3>
+</div>
 </body>
 </html>
